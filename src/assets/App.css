@@ -1,0 +1,18 @@
+.conteudo {
+    display: flex;
+    background-image: url(./background.jpg);
+    height: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+:root {
+    --primaria: #58a4b0;
+    --secundaria: #373f51;
+    --secundaria-ativa: #cccccc;
+    --fundo: #ffffff;
+    --fundo-detalhes: #ececec;
+}

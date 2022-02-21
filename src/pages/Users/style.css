@@ -1,0 +1,21 @@
+.container {
+    background-color: #cecece;
+    padding: 30px;
+}
+
+.logo {
+    background-image: url(../../assets/logo.png);
+    width: 296px;
+    height: 113px;
+    margin: 0 auto;
+}
+
+.options {
+    margin: 10px 0;
+}
+
+.search {
+    float: right;
+    width: 20% !important;
+    margin-left: 4px;
+}

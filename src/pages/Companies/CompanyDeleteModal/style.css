@@ -1,0 +1,21 @@
+.col {
+    padding: 0 2px !important;
+}
+
+.row {
+    padding: 0 10px !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+label {
+    padding: 2px !important;
+}
